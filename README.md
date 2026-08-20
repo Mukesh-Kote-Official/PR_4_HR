@@ -11,15 +11,15 @@
 ## 🖥️ Dashboard Preview
 
 ### Workforce Overview
-![Workforce Overview](Images/Workforce-Overview.png)
+![Workforce Overview](Images/Overview.png)
 
 ### Attrition Analysis
-![Attrition Analysis](Images/Attrition-Analysis.png)
+![Attrition Analysis](Images/Attrition_Analysis.png)
 
 ### Compensation Analysis
-![Compensation Analysis](Images/Compensation-Analysis.png)
+![Compensation Analysis](Images/Compensation_Analysis.png)
 
-> **Note:** Add your exported Power BI page screenshots to the `Images` folder using the filenames above. The dashboard previews are intentionally placed at the beginning of this README for a portfolio-first presentation.
+
 
 ---
 
@@ -230,32 +230,9 @@ This dashboard can help answer questions such as:
 
 ---
 
-## 📸 Screenshots
-
-For the best GitHub presentation, keep the three dashboard screenshots near the top of the README and use high-resolution exports from Power BI.
-
-Recommended export names:
-
-```text
-Images/
-├── Workforce-Overview.png
-├── Attrition-Analysis.png
-└── Compensation-Analysis.png
-```
-
----
-
-## 📄 Power BI File
-
-**Main report:** `PR_4.pbix`
-
-The `.pbix` file contains the complete Power BI report, including the report pages, visuals, interactions, theme, and analytical measures.
-
----
-
 ## 👤 Author
 
-**Nakul Shah**
+**Mukesh Kote**
 
 Power BI • Data Analytics • Business Intelligence
 
